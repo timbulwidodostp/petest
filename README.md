@@ -1,6 +1,8 @@
 # petest
 PE Test for Linear vs. Log-Linear Specifications Use petest (lmtest) With (In) R Software
 
+https://www.youtube.com/watch?v=x3qihhABhzo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
